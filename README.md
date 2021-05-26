@@ -1,2 +1,6 @@
 # C_Strings_Functions_ASM_ARM
- This repo serves the purpose of storing source code for string related functions in C, written in ASM ARM
+ This repo serves the purpose of storing source code for string related functions in C, written in Assembly ARM.
+ I wrote this code for a class of Computer Architectures, for my Computer Science Degree (or as it is called in Portuguese, "Engenharia Informática" which translates to Informatic Engineering.
+
+The code is rough, is not efficient at all, I don't have time at the moment to fix it. If you somehow stumble upon this code and find fixes to it, feel free to add to it.
+Thanks for reading.
